@@ -60,6 +60,12 @@ The system supports 4D conflict detection (3D space + time) and provides detaile
   * matplotlib
   * scipy
 
+### Running the system
+Run in terminal: 
+```
+python3 -m main
+
+```
 
 ## Design Decisions & Architectural Notes
 
